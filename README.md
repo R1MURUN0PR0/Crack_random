@@ -1,2 +1,2 @@
 # Crack_random
-https://hackmd.io/@r1muru/ryh6vL1Oxl
+Giải thích và phân tích hướng khôi phục ở: https://hackmd.io/@r1muru/ryh6vL1Oxl
